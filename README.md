@@ -3,8 +3,8 @@
 ## ENPM 667
 
 ### Authors
-**Shantanu Parab** sparab@umd.edu 119347539  
-**Vineet Singh** vsingh03@umd.edu 119123614
+**Shantanu Parab** | sparab@umd.edu
+**Vineet Singh** | vsingh03@umd.edu
 
 ## Tools
 Matlab   
